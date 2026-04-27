@@ -12,3 +12,4 @@ Cross-platform mobile regression automation built with Python and Appium for And
 - Explicit waits around asynchronous UI states
 - Stable locator hierarchy with fallback selectors
 - Flaky test diagnostics with retry-safe logging
+- Suite stability target above 95% by reducing timing and locator-related failures
