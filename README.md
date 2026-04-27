@@ -8,6 +8,11 @@ Cross-platform mobile regression automation built with Python and Appium for And
 - Basic profile update validation
 - Common user journey smoke checks across device profiles
 
+## Maintenance approach
+- Track iterative suite enhancements in Git history (40+ expected over time)
+- Keep traceability documents aligned to user stories and release scope
+- Publish standardized regression summaries for QA and product stakeholders
+
 ## Reliability strategy
 - Explicit waits around asynchronous UI states
 - Stable locator hierarchy with fallback selectors
